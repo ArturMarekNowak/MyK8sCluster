@@ -2,21 +2,15 @@
 Hereby repository is a presentation of kubernetes cluster I built utilizing two Raspberry Pi boards
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Pictures](#pictures)
 * [Status](#status)
 * [Inspiration](#inspiration)
 
-
-## General info
-Repository is structured as a solution containing multiple projects. Each project represents different design pattern.
-
-
 ## Technologies
 * 2x Rasberry Pi 4
 * Ubuntu 22.04.2 LTS (Jammy Jellyfish)
-* 
+
 
 ## Pictures
 ![RaspberryPiBoards](docs/RaspberryBoards.jpg)
