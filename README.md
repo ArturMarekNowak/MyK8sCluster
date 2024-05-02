@@ -36,8 +36,8 @@ Hereby repository is a presentation of kubernetes cluster I built utilizing two 
 
 ## Useful links
 During development I used those two examples to write terraform manifests which deploy single nginx pod and NodePort
-- [https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs/resources/pod](Terraform docs)
-- [https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/blob/v30.2.0/examples/deploy_service/main.tf](Google exmaples)
+- [Terraform docs](https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs/resources/pod)
+- [Google example](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/blob/v30.2.0/examples/deploy_service/main.tf)
 
 ## Status
 Project is: _finished_
