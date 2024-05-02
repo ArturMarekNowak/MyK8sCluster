@@ -1,5 +1,5 @@
 # MyK8sCluster
-Hereby repository is a presentation of kubernetes cluster I built utilizing two Raspberry Pi boards
+Hereby repository is a presentation of kubernetes cluster I built utilizing two Raspberry Pi boards. Both boards have Ubuntu 22.04 as OS. K3s is an orchestrator. Two nodes are available one master and one worker. I also wrote some Terraform manifests which deploy single nginx pod to the cluster
 
 
 ## Table of contents
